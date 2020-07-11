@@ -1,0 +1,12 @@
+[
+    {
+        "apple": 600000,
+        "microsoft": -100000,
+        "tesla": -50000,
+        "starbucks": 60000,
+        "amazon": -200000
+    },
+    {
+        "average_profit": 330000.0
+    }
+]
